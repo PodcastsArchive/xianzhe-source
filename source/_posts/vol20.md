@@ -3,7 +3,7 @@ title: "当我切土豆时，我就只在意土豆"
 date: 2021-10-21
 ---
 
-{% aplayer "当我切土豆时，我就只在意土豆" moyu-time  https://bts-media.xyzcdn.net/aHR0cHM6Ly9qdC54aW1hbGF5YS5jb20vL0NLd1JJTUFGUjlrOEFsd0E4UUR2RGpJRC5tNGE_Y2hhbm5lbD1yc3MmYWxidW1faWQ9MzE4NzkyNDYmdHJhY2tfaWQ9NDY0NDUwMDkyJnVpZD01MDMzNjc5Jmp0PWh0dHBzOi8vYXVkaW8ueG1jZG4uY29tL3N0b3JhZ2VzLzYzYTMtYXVkaW9mcmVlaGlnaHFwcy9FNi8wNS9DS3dSSU1BRlI5azhBbHdBOFFEdkRqSUQubTRh.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "当我切土豆时，我就只在意土豆" xianzhe-time  https://bts-media.xyzcdn.net/aHR0cHM6Ly9qdC54aW1hbGF5YS5jb20vL0NLd1JJTUFGUjlrOEFsd0E4UUR2RGpJRC5tNGE_Y2hhbm5lbD1yc3MmYWxidW1faWQ9MzE4NzkyNDYmdHJhY2tfaWQ9NDY0NDUwMDkyJnVpZD01MDMzNjc5Jmp0PWh0dHBzOi8vYXVkaW8ueG1jZG4uY29tL3N0b3JhZ2VzLzYzYTMtYXVkaW9mcmVlaGlnaHFwcy9FNi8wNS9DS3dSSU1BRlI5azhBbHdBOFFEdkRqSUQubTRh.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61713d3dc4970d10b41ec26f)**
 

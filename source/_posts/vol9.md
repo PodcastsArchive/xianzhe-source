@@ -3,7 +3,7 @@ title: "06: 小孩子才分对错，大人只说金句"
 date: 2020-12-21
 ---
 
-{% aplayer "06: 小孩子才分对错，大人只说金句" moyu-time  https://jt.ximalaya.com//CMCoOR4DteK4AZ7yzwBzVKlS.m4a?channel=rss&album_id=31879246&track_id=367184301&uid=5033679&jt=https://audio.xmcdn.com/storages/cef1-audiofreehighqps/8C/27/CMCoOR4DteK4AZ7yzwBzVKlS.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "06: 小孩子才分对错，大人只说金句" xianzhe-time  https://jt.ximalaya.com//CMCoOR4DteK4AZ7yzwBzVKlS.m4a?channel=rss&album_id=31879246&track_id=367184301&uid=5033679&jt=https://audio.xmcdn.com/storages/cef1-audiofreehighqps/8C/27/CMCoOR4DteK4AZ7yzwBzVKlS.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/5fe02067dee9c1e16df13a7a)**
 

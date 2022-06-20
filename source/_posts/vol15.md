@@ -3,7 +3,7 @@ title: "小孩子才想要最好的朋友，我是小孩子 | 深夜篇"
 date: 2021-05-05
 ---
 
-{% aplayer "小孩子才想要最好的朋友，我是小孩子 | 深夜篇" moyu-time  https://jt.ximalaya.com//CKwRIW4EaA6gAy5ISgCm6RwN.m4a?channel=rss&album_id=31879246&track_id=412206280&uid=5033679&jt=https://audio.xmcdn.com/storages/2cb8-audiofreehighqps/96/96/CKwRIW4EaA6gAy5ISgCm6RwN.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "小孩子才想要最好的朋友，我是小孩子 | 深夜篇" xianzhe-time  https://jt.ximalaya.com//CKwRIW4EaA6gAy5ISgCm6RwN.m4a?channel=rss&album_id=31879246&track_id=412206280&uid=5033679&jt=https://audio.xmcdn.com/storages/2cb8-audiofreehighqps/96/96/CKwRIW4EaA6gAy5ISgCm6RwN.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60925053c2260f657089d139)**
 

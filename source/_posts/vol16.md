@@ -3,7 +3,7 @@ title: "09: 你不是一枚 U 盘，​你的身体曾属于旷野"
 date: 2021-06-01
 ---
 
-{% aplayer "09: 你不是一枚 U 盘，​你的身体曾属于旷野" moyu-time  https://jt.ximalaya.com//CKwRIasEi8T2AoLUxwCzjE9i.m4a?channel=rss&album_id=31879246&track_id=420679819&uid=5033679&jt=https://audio.xmcdn.com/storages/f8e2-audiofreehighqps/FA/12/CKwRIasEi8T2AoLUxwCzjE9i.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "09: 你不是一枚 U 盘，​你的身体曾属于旷野" xianzhe-time  https://jt.ximalaya.com//CKwRIasEi8T2AoLUxwCzjE9i.m4a?channel=rss&album_id=31879246&track_id=420679819&uid=5033679&jt=https://audio.xmcdn.com/storages/f8e2-audiofreehighqps/FA/12/CKwRIasEi8T2AoLUxwCzjE9i.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60b60bb708910b312a132c18)**
 

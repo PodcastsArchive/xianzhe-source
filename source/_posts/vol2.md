@@ -3,7 +3,7 @@ title: "02: 青春爱憎史：不是说好只陪我上厕所吗？"
 date: 2020-03-26
 ---
 
-{% aplayer "02: 青春爱憎史：不是说好只陪我上厕所吗？" moyu-time  https://jt.ximalaya.com//wKgO1l58SCmh4XolAXiHthv1ZmE575.m4a?channel=rss&album_id=31879246&track_id=273834862&uid=5033679&jt=https://audio.xmcdn.com/group78/M0A/3A/00/wKgO1l58SCmh4XolAXiHthv1ZmE575.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "02: 青春爱憎史：不是说好只陪我上厕所吗？" xianzhe-time  https://jt.ximalaya.com//wKgO1l58SCmh4XolAXiHthv1ZmE575.m4a?channel=rss&album_id=31879246&track_id=273834862&uid=5033679&jt=https://audio.xmcdn.com/group78/M0A/3A/00/wKgO1l58SCmh4XolAXiHthv1ZmE575.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/5e7c49e0418a84a04651d28b)**
 

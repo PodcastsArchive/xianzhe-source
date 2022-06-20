@@ -3,7 +3,7 @@ title: "我们只是随便活着就被对方羡慕得要命"
 date: 2022-04-30
 ---
 
-{% aplayer "我们只是随便活着就被对方羡慕得要命" moyu-time  https://jt.ximalaya.com//GKwRIUEGQq0SApSLTgFHmLoV.m4a?channel=rss&album_id=31879246&track_id=527126073&uid=5033679&jt=https://audio.xmcdn.com/storages/2db6-audiofreehighqps/53/A7/GKwRIUEGQq0SApSLTgFHmLoV.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "我们只是随便活着就被对方羡慕得要命" xianzhe-time  https://jt.ximalaya.com//GKwRIUEGQq0SApSLTgFHmLoV.m4a?channel=rss&album_id=31879246&track_id=527126073&uid=5033679&jt=https://audio.xmcdn.com/storages/2db6-audiofreehighqps/53/A7/GKwRIUEGQq0SApSLTgFHmLoV.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/626cef5f67427058b8457ef5)**
 

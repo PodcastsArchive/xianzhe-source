@@ -3,7 +3,7 @@ title: "巨大时代里，我们努力过着的小小人生 | 深夜篇"
 date: 2020-12-29
 ---
 
-{% aplayer "巨大时代里，我们努力过着的小小人生 | 深夜篇" moyu-time  https://jt.ximalaya.com//CMCoOR4DwQdGAkF2fwB2TJvM.m4a?channel=rss&album_id=31879246&track_id=369882690&uid=5033679&jt=https://audio.xmcdn.com/storages/7b92-audiofreehighqps/38/6E/CMCoOR4DwQdGAkF2fwB2TJvM.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "巨大时代里，我们努力过着的小小人生 | 深夜篇" xianzhe-time  https://jt.ximalaya.com//CMCoOR4DwQdGAkF2fwB2TJvM.m4a?channel=rss&album_id=31879246&track_id=369882690&uid=5033679&jt=https://audio.xmcdn.com/storages/7b92-audiofreehighqps/38/6E/CMCoOR4DwQdGAkF2fwB2TJvM.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/5feb4665dee9c1e16d961483)**
 

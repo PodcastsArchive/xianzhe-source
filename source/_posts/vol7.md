@@ -3,7 +3,7 @@ title: "05: 成人世界不止五险一金，还有一点好事情"
 date: 2020-08-31
 ---
 
-{% aplayer "05: 成人世界不止五险一金，还有一点好事情" moyu-time  https://jt.ximalaya.com//wKg5H19Mtt_QMNkrAbp25Vc--aU096.m4a?channel=rss&album_id=31879246&track_id=332368788&uid=5033679&jt=https://audio.xmcdn.com/group85/M04/A3/22/wKg5H19Mtt_QMNkrAbp25Vc--aU096.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "05: 成人世界不止五险一金，还有一点好事情" xianzhe-time  https://jt.ximalaya.com//wKg5H19Mtt_QMNkrAbp25Vc--aU096.m4a?channel=rss&album_id=31879246&track_id=332368788&uid=5033679&jt=https://audio.xmcdn.com/group85/M04/A3/22/wKg5H19Mtt_QMNkrAbp25Vc--aU096.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/5f4cbf669504bbdb77555ffa)**
 

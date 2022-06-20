@@ -3,7 +3,7 @@ title: "该干啥干啥，输了算我倒霉"
 date: 2022-05-31
 ---
 
-{% aplayer "该干啥干啥，输了算我倒霉" moyu-time  https://jt.ximalaya.com//GKwRIUEGa5CsAgBu2wFhU-Lk.m4a?channel=rss&album_id=31879246&track_id=538989562&uid=5033679&jt=https://audio.xmcdn.com/storages/ed84-audiofreehighqps/8A/71/GKwRIUEGa5CsAgBu2wFhU-Lk.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "该干啥干啥，输了算我倒霉" xianzhe-time  https://jt.ximalaya.com//GKwRIUEGa5CsAgBu2wFhU-Lk.m4a?channel=rss&album_id=31879246&track_id=538989562&uid=5033679&jt=https://audio.xmcdn.com/storages/ed84-audiofreehighqps/8A/71/GKwRIUEGa5CsAgBu2wFhU-Lk.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6295d19f5cc037a5c6a777d1)**
 

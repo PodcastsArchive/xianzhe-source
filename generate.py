@@ -20,7 +20,7 @@ for entry in entries:
     date = date.strftime('%Y-%m-%d')
 
     detail = entry['title_detail']
-    player = '{% aplayer ' + f'"{title}"' + ' moyu-time ' + ' ' + entry['links'][1]['href']  + ' ' + IMG_URL + ' %}'
+    player = '{% aplayer ' + f'"{title}"' + ' xianzhe-time ' + ' ' + entry['links'][1]['href']  + ' ' + IMG_URL + ' %}'
 
     md_builder = \
     f'''---

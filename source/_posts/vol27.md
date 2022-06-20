@@ -3,7 +3,7 @@ title: "在不得不闭门独处的时间里"
 date: 2022-04-21
 ---
 
-{% aplayer "在不得不闭门独处的时间里" moyu-time  https://jt.ximalaya.com//GKwRIasGNz2SA1raBgFA-66Y.m4a?channel=rss&album_id=31879246&track_id=524242537&uid=5033679&jt=https://audio.xmcdn.com/storages/5114-audiofreehighqps/4F/C5/GKwRIasGNz2SA1raBgFA-66Y.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+{% aplayer "在不得不闭门独处的时间里" xianzhe-time  https://jt.ximalaya.com//GKwRIasGNz2SA1raBgFA-66Y.m4a?channel=rss&album_id=31879246&track_id=524242537&uid=5033679&jt=https://audio.xmcdn.com/storages/5114-audiofreehighqps/4F/C5/GKwRIasGNz2SA1raBgFA-66Y.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6261817872f4ab83d3251edf)**
 
