@@ -4,8 +4,8 @@ navname: XianZhe Time
 # navigatior items
 nav:
   #
-  Archives: /archives
-  About: /about
+  Archives: archives
+  About: about
 
 # favicon
 favicon: ./image/img.jpg
@@ -22,7 +22,7 @@ avatar: /image/img.jpg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  Blog: archives
 #  Category:
 #  Tags:
 #  Link:
