@@ -1,0 +1,12 @@
+---
+title: "房东，皱纹，未婚夫，和还没想明白的我 | 深夜篇"
+date: 2021-04-16
+---
+
+{% aplayer "房东，皱纹，未婚夫，和还没想明白的我 | 深夜篇" moyu-time  https://jt.ximalaya.com//CKwRIW4ETxuYAkJxlwCfSZC4.m4a?channel=rss&album_id=31879246&track_id=406237346&uid=5033679&jt=https://audio.xmcdn.com/storages/6441-audiofreehighqps/05/83/CKwRIW4ETxuYAkJxlwCfSZC4.m4a https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDg0L00wNy82Mi80Ni93S2c1SGw3LUJBQ1FCNHVrQUFPa1ppVXpjbUkxMDQucG5n.png %}
+
+**[Link](https://www.xiaoyuzhoufm.com/episode/6079599d3bfd9e4d89138dc3)**
+
+## Summary
+<p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">窗外柳絮纷飞，小张和治治看着坏掉的洗衣机，动用了毕生所有文学素养，给房东阿姨发出一条消息。</p><span><br /></span><p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">本期前半小时为哭诉，24 分钟开始，她们第一次正经聊了聊“焦虑”。</p><span><br /></span><p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">买不起的房子、不存在的未婚夫、过期的子宫、炸裂的眼纹、挚友抢先一步的成功……在和这些东西和平共处之前，小张和治治也在经历着漫长而诚实的惶恐。</p><span><br /></span><p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">Music credits:</p><p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">1. Sugar Plum Jangle – Logan</p><p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">2. Melody – Op.68, No.1 – Robert Schumann</p><p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">3. Pipe Dream – Logan</p><p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">4. feelings – jinsang</p><span><br /></span><p style="color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;">《贤者时间》是一档从普通人视角观察其他普通人的播客节目，由小张和治治两个普通人主持。wb: @贤者时间播客 | 出品方：Marcast Media 商务联系: hello@marcastmedia.com</p>
+    
