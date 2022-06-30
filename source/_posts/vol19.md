@@ -1,6 +1,11 @@
 ---
 title: "没有人应该在谁的身边觉得自己好黯淡｜再见爱人"
 date: 2022-06-12 14:30:53
+duration: '1:48:17'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol19.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 6497
+type: 'audio/mpeg'
 ---
 
 {% aplayer "没有人应该在谁的身边觉得自己好黯淡｜再见爱人" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol19.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

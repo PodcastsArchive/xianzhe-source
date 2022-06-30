@@ -1,6 +1,11 @@
 ---
 title: "小孩子才想要最好的朋友，我是小孩子 | 深夜篇"
 date: 2022-06-12 13:55:38
+duration: '1:49:52'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol15.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 6592
+type: 'audio/mpeg'
 ---
 
 {% aplayer "小孩子才想要最好的朋友，我是小孩子 | 深夜篇" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol15.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

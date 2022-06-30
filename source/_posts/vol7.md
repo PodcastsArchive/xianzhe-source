@@ -1,6 +1,11 @@
 ---
 title: "05: 成人世界不止五险一金，还有一点好事情"
 date: 2022-06-12 13:34:30
+duration: '0:59:42'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol7.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 3582
+type: 'audio/mpeg'
 ---
 
 {% aplayer "05: 成人世界不止五险一金，还有一点好事情" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol7.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

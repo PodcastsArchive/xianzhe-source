@@ -1,6 +1,11 @@
 ---
 title: "巨大时代里，我们努力过着的小小人生 | 深夜篇"
 date: 2022-06-12 13:44:16
+duration: '1:17:54'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol10.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 4674
+type: 'audio/mpeg'
 ---
 
 {% aplayer "巨大时代里，我们努力过着的小小人生 | 深夜篇" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol10.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

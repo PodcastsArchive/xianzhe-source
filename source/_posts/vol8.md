@@ -1,6 +1,11 @@
 ---
 title: "问题出现我再糊弄大家 | 深夜篇"
 date: 2022-06-12 13:40:28
+duration: '0:59:59'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol8.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 3599
+type: 'audio/mpeg'
 ---
 
 {% aplayer "问题出现我再糊弄大家 | 深夜篇" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol8.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

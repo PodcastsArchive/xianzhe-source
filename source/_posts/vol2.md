@@ -1,6 +1,11 @@
 ---
 title: "02: 青春爱憎史：不是说好只陪我上厕所吗？"
 date: 2022-06-12 13:15:40
+duration: '0:50:16'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol2.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 3016
+type: 'audio/mpeg'
 ---
 
 {% aplayer "02: 青春爱憎史：不是说好只陪我上厕所吗？" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol2.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

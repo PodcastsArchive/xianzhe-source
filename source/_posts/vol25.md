@@ -1,6 +1,11 @@
 ---
 title: "关键你洗头的时候，也没法不洗到脸啊"
 date: 2022-06-12 14:43:55
+duration: '1:34:33'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol25.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 5673
+type: 'audio/mpeg'
 ---
 
 {% aplayer "关键你洗头的时候，也没法不洗到脸啊" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol25.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

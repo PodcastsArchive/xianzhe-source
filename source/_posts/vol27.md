@@ -1,6 +1,11 @@
 ---
 title: "在不得不闭门独处的时间里"
 date: 2022-06-12 14:48:31
+duration: '1:55:53'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol27.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 6953
+type: 'audio/mpeg'
 ---
 
 {% aplayer "在不得不闭门独处的时间里" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol27.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

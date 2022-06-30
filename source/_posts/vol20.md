@@ -1,6 +1,11 @@
 ---
 title: "当我切土豆时，我就只在意土豆"
 date: 2022-06-12 14:32:15
+duration: '1:21:48'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol20.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 4908
+type: 'audio/mpeg'
 ---
 
 {% aplayer "当我切土豆时，我就只在意土豆" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol20.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

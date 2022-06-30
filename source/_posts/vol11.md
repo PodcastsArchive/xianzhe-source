@@ -1,6 +1,11 @@
 ---
 title: "07: 不玩手机了好吗，我想你真的在我身边"
 date: 2022-06-12 13:48:22
+duration: '0:55:14'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol11.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 3314
+type: 'audio/mpeg'
 ---
 
 {% aplayer "07: 不玩手机了好吗，我想你真的在我身边" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol11.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

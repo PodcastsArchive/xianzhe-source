@@ -1,6 +1,11 @@
 ---
 title: "04: 140斤的姐姐，咋乘风破浪啊"
 date: 2022-06-12 13:23:03
+duration: '0:43:38'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol5.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 2618
+type: 'audio/mpeg'
 ---
 
 {% aplayer "04: 140斤的姐姐，咋乘风破浪啊" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol5.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

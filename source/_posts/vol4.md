@@ -1,6 +1,11 @@
 ---
 title: "爱的软弱，从蝴蝶姐姐和罗志祥谈起｜深夜篇"
 date: 2022-06-12 13:18:55
+duration: '0:32:49'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol4.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 1969
+type: 'audio/mpeg'
 ---
 
 {% aplayer "爱的软弱，从蝴蝶姐姐和罗志祥谈起｜深夜篇" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol4.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

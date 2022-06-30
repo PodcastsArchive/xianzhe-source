@@ -1,6 +1,11 @@
 ---
 title: "06: 小孩子才分对错，大人只说金句"
 date: 2022-06-12 13:42:36
+duration: '0:55:59'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol9.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 3359
+type: 'audio/mpeg'
 ---
 
 {% aplayer "06: 小孩子才分对错，大人只说金句" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol9.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

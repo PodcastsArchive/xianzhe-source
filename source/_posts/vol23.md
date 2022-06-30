@@ -1,6 +1,11 @@
 ---
 title: "湿疹、野心、假装被男人逗笑，我们的 Not To Do List"
 date: 2022-06-12 14:40:08
+duration: '0:23:55'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol23.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 1435
+type: 'audio/mpeg'
 ---
 
 {% aplayer "湿疹、野心、假装被男人逗笑，我们的 Not To Do List" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol23.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

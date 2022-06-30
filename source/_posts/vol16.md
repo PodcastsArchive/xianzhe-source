@@ -1,6 +1,11 @@
 ---
 title: "09: 你不是一枚 U 盘，​你的身体曾属于旷野"
 date: 2022-06-12 13:58:51
+duration: '1:25:47'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol16.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 5147
+type: 'audio/mpeg'
 ---
 
 {% aplayer "09: 你不是一枚 U 盘，​你的身体曾属于旷野" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol16.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

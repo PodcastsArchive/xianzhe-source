@@ -1,6 +1,11 @@
 ---
 title: "爱在离乡背井时｜深夜篇"
 date: 2022-06-12 13:49:40
+duration: '1:25:10'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol12.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 5110
+type: 'audio/mpeg'
 ---
 
 {% aplayer "爱在离乡背井时｜深夜篇" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol12.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

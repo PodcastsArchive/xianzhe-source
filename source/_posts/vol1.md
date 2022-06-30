@@ -1,6 +1,11 @@
 ---
 title: "01: 过年回家的路上，你在想什么"
 date: 2022-06-12 13:13:45
+duration: '0:45:07'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol1.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 2707
+type: 'audio/mpeg'
 ---
 
 {% aplayer "01: 过年回家的路上，你在想什么" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol1.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

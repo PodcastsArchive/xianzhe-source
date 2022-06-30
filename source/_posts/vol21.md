@@ -1,6 +1,11 @@
 ---
 title: "你说得很好，可是我不想啊"
 date: 2022-06-12 14:36:30
+duration: '1:29:16'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol21.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 5356
+type: 'audio/mpeg'
 ---
 
 {% aplayer "你说得很好，可是我不想啊" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol21.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

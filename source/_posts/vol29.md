@@ -1,6 +1,11 @@
 ---
 title: "该干啥干啥，输了算我倒霉"
 date: 2022-06-12 14:51:19
+duration: '1:09:08'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol29.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 4148
+type: 'audio/mpeg'
 ---
 
 {% aplayer "该干啥干啥，输了算我倒霉" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol29.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

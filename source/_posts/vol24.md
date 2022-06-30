@@ -1,6 +1,11 @@
 ---
 title: "就算是伤心小狗，这一拳下去也不开玩笑｜两周年特辑"
 date: 2022-06-12 14:42:04
+duration: '1:34:37'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol24.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 5677
+type: 'audio/mpeg'
 ---
 
 {% aplayer "就算是伤心小狗，这一拳下去也不开玩笑｜两周年特辑" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol24.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

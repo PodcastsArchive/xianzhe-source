@@ -1,6 +1,11 @@
 ---
 title: "展开时间，在每一个倍速日常"
 date: 2022-06-12 14:27:04
+duration: '2:57:03'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol17.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 10623
+type: 'audio/mpeg'
 ---
 
 {% aplayer "展开时间，在每一个倍速日常" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol17.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

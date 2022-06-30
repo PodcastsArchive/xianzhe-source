@@ -1,6 +1,11 @@
 ---
 title: "08: 记忆是快乐悲伤混合球，我一个也不要丢"
 date: 2022-06-12 13:51:30
+duration: '1:10:36'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol13.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 4236
+type: 'audio/mpeg'
 ---
 
 {% aplayer "08: 记忆是快乐悲伤混合球，我一个也不要丢" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol13.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

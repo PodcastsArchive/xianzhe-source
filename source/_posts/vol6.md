@@ -1,6 +1,11 @@
 ---
 title: "好朋友，我也永远对你好奇｜深夜篇"
 date: 2022-06-12 13:31:03
+duration: '0:29:05'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol6.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 1745
+type: 'audio/mpeg'
 ---
 
 {% aplayer "好朋友，我也永远对你好奇｜深夜篇" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol6.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

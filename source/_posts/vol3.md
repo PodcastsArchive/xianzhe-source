@@ -1,6 +1,11 @@
 ---
 title: "03: 越长大越肤浅，可我只想躲回童年"
 date: 2022-06-12 13:17:31
+duration: '0:58:00'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol3.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 3480
+type: 'audio/mpeg'
 ---
 
 {% aplayer "03: 越长大越肤浅，可我只想躲回童年" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol3.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

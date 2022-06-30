@@ -1,6 +1,11 @@
 ---
 title: "我们只是随便活着就被对方羡慕得要命"
 date: 2022-06-12 14:50:13
+duration: '1:29:07'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol28.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 5347
+type: 'audio/mpeg'
 ---
 
 {% aplayer "我们只是随便活着就被对方羡慕得要命" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol28.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

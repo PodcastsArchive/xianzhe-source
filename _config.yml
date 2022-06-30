@@ -106,3 +106,20 @@ deploy:
   repo: git@github.com:PodcastsArchive/xianzhetime.git
   branch: master
   message: update by script
+
+feed:
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  description: ""
+  # ISO 639-1中定义的播客语言代码（由两个字母组成) ,参考http://www.loc.gov/standards/iso639-2/php/code_list.php
+  language: zh
+  explicit: no # 是否存在漏骨内容
+  image: "https://podcastsarchive.github.io/xianzhetime/image/img.jpg"
+  owner: "KillTime"
+  content: true
+  limit: false
+  content_limit: 10000

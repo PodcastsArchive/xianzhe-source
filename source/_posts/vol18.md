@@ -1,6 +1,11 @@
 ---
 title: "元大都城垣遗址公园 69'30.mp3"
 date: 2022-06-12 14:29:24
+duration: '1:09:33'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol18.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 4173
+type: 'audio/mpeg'
 ---
 
 {% aplayer "元大都城垣遗址公园 69'30.mp3" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol18.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

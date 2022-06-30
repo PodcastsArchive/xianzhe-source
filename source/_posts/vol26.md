@@ -1,6 +1,11 @@
 ---
 title: "冲突不断到来，你我置身事内"
 date: 2022-06-12 14:45:31
+duration: '1:45:24'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol26.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 6324
+type: 'audio/mpeg'
 ---
 
 {% aplayer "冲突不断到来，你我置身事内" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol26.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}

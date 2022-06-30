@@ -1,6 +1,11 @@
 ---
 title: "加班狂敲 5 万字，3 万字都在群聊吹水"
 date: 2022-06-12 14:38:59
+duration: '1:35:14'
+media: https://podcastsarchive.github.io/xianzhetime/audio/vol22.m4a
+image: https://podcastsarchive.github.io/xianzhetime/image/img.jpg
+length: 5714
+type: 'audio/mpeg'
 ---
 
 {% aplayer "加班狂敲 5 万字，3 万字都在群聊吹水" KillTime  https://podcastsarchive.github.io/xianzhetime/audio/vol22.m4a https://podcastsarchive.github.io/xianzhetime/image/img.jpg %}
