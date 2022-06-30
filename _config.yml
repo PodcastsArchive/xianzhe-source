@@ -123,3 +123,5 @@ feed:
   content: true
   limit: false
   content_limit: 10000
+  template:
+    - ./source/rss2.xml
