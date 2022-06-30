@@ -1,5 +1,5 @@
 # Header
-navname: XianZhe Time
+navname: 贤者时间
 
 # navigatior items
 nav:
@@ -14,7 +14,7 @@ favicon: ./image/img.jpg
 nickname: 贤者时间
 
 ### this variable is MarkDown form.
-description: 《贤者时间》是一档从普通人视角观察其他普通人的播客节目<br>由小张和治治两个普通人主持。
+description: 《贤者时间》是一档从普通人视角观察其他普通人的播客节目<br>由小张和治治两个普通人主持
 avatar: /image/img.jpg
 
 # main menu navigation
