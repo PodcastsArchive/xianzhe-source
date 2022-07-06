@@ -25,12 +25,12 @@ links:
   Blog: archives
 #  Category:
 #  Tags:
-#  Link:
+  # Link: 
 #  Resume:
 #  Publish:
 #  Trophy:
 #  Gallary:
-  RSS: https://moyutime-hub.vercel.app/xiaoyuzhou/podcast/5e285523418a84a04627767d
+  RSS: https://podcastsarchive.github.io/xianzhetime/rss2.xml
 #  AliPay:
   # ZhiHu: https://www.zhihu.com/people/lfkdsk
 #  LinkedIn:
@@ -46,7 +46,7 @@ links:
   # Reddit:
 #  YouTube:
 #  QQ:
-#  Weibo:
+  Weibo: https://weibo.com/u/7350110112
 #  WeChat:
   # Github: https://github.com/lfkdsk
 
