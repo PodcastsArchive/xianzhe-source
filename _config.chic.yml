@@ -3,8 +3,8 @@ navname: 贤者时间
 
 # navigatior items
 nav:
-  #
-  Archives: archives
+  Posts: Archives
+  PlayList: playlist
   About: about
 
 # favicon

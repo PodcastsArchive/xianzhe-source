@@ -32,7 +32,9 @@ size = index = entries_len
 #     index -= 1
 
 index = size
+playlist_items = []
 
+# Generate All Items.
 for entry in entries:
     title = entry['title'].replace('"', '')
     date = entry['published']
@@ -46,6 +48,7 @@ for entry in entries:
     summary = re.sub('style=\".*?\"', '', summary)
     durnation = entry['itunes_duration']
     length = entry['links'][1]['length']
+    playlist_items.append( f'{{"title": "{title}", "author": "{AUTHOR}", "url": "{audio}", "pic": "{IMG_URL}"}}')
     md_builder = \
     f'''---
 title: "{title}"
@@ -68,3 +71,23 @@ type: 'audio/mpeg'
     pathlib.Path(f'source/_posts/vol{index}.md').write_text(md_builder)
     print(f'generate md file for source/_posts/vol{index}.md')
     index -= 1
+
+# Generate Play List
+playlist = \
+f'''---
+title: "PlayList"
+---
+{{% aplayerlist %}}
+{{
+    "narrow": false,
+    "autoplay": false,
+    "mode": "order",
+    "mutex": true,
+    "preload": "auto",
+    "listmaxheight": "1000px",
+    "music": [{','.join(playlist_items)}]
+}}
+{{% endaplayerlist %}}
+
+'''
+pathlib.Path(f'source/playlist.md').write_text(playlist)

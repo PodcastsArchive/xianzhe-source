@@ -109,10 +109,8 @@ deploy:
 
 feed:
   type:
-    - atom
     - rss2
   path:
-    - atom.xml
     - rss2.xml
   description: ""
   # ISO 639-1中定义的播客语言代码（由两个字母组成) ,参考http://www.loc.gov/standards/iso639-2/php/code_list.php
